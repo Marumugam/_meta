@@ -1,6 +1,6 @@
 # World Simulation Engine
 
-An framework for simulating virtual worlds and intelligent mutating agents. 
+A framework for simulating virtual worlds and intelligent mutating agents. 
 
 ## Motivation
 
